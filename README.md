@@ -1,5 +1,7 @@
 # YouTube News Agent
 
+[![Python Tests](https://github.com/nmadfis-code/my-project/actions/workflows/python-tests.yml/badge.svg)](https://github.com/nmadfis-code/my-project/actions/workflows/python-tests.yml)
+
 A small Python project that reads YouTube channels from `channels.yaml`, fetches recent videos, scores them with simple heuristics, and writes a markdown digest of the top 10 videos.
 
 ## Features
